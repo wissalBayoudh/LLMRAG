@@ -46,7 +46,7 @@ AgenticRAG/
 
 ## Graph Result
 
-![Graph Result](Capture d’écran 2024-10-15 121958.png)
+![Graph Result](1.png)
 #### Usage
 Clone the repository:
 ```
