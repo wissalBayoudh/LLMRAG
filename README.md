@@ -4,25 +4,8 @@ This repository contains Jupyter Notebook (`.ipynb`) files and Python (`.py`) sc
 
 - **Langchain**
 - **Chroma** for vector store embeddings
-- **FastEmbedEmbeddings** for embedding creation
+- **Langchain** for embedding creation
 - **Tavily** for web search functionality
-
-## Project Future Structure
-AgenticRAG/
-├── .ipynb files/
-│   ├── example1.ipynb
-│   └── example2.ipynb
-├── .py files/
-│   ├── llm_router.py
-│   ├── generation_chain.py
-│   ├── retrieval_grader.py
-│   ├── hallucination_grader.py
-│   ├── answer_grader.py
-│   └── web_search_tool.py
-├── requirements.txt
-├── README.md
-└── graph_result.png  # Image of the graph result
-
 
 ## LangGraph Workflow
 
