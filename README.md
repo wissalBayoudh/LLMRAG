@@ -44,8 +44,8 @@ export TAVILY_API_KEY='your_tavily_api_key'
 export LANGCHAIN_API_KEY='your_langchain_api_key'
 ```
 ## Graph Result
-![Graph Result](2.png)
-![Graph Result](1.png)
+- ![Graph Result](2.png)
+- ![Graph Result](1.png)
 #### Usage
 Clone the repository:
 ```
